@@ -107,7 +107,7 @@ export const GOOGLE_MAPS_URL =
 /**
  * WhatsApp number for RSVP (country code + number, no + or spaces).
  */
-export const WHATSAPP_NUMBER = "923171297019";
+export const WHATSAPP_NUMBER = "923403157051";
 
 export const RSVP_MESSAGE =
   "Assalam-o-Alaikum! Thank you for inviting me. InshaAllah, I will join the wedding celebration of Muhammad Nawaz 💗💍";
